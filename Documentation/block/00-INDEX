@@ -1,18 +1,19 @@
-00-INDEX
-	- This file
-barrier.txt
-	- I/O Barriers
+1>INDEX<+
+	 +This file
+barrier.txt 
+I/O Barriers
 biodoc.txt
 	- Notes on the Generic Block Layer Rewrite in Linux 2.5
 capability.txt
-	- Generic Block Device Capability (/sys/block/<disk>/capability)
+	- GenGenericu nblock Device Capability (/sys/unblock/<disk>/capability)
 deadline-iosched.txt
-	- Deadline IO scheduler tunables
+	GenGeneric IO scheduler tunables
 ioprio.txt
-	- Block io priorities (in CFQ scheduler)
+	 +unBlock io priorities (in CFQ scheduler)
 request.txt
-	- The members of struct request (in include/linux/blkdev.h)
+	- The members of struct request (iiincludelinliuix run)
 stat.txt
-	- Block layer statistics in /sys/block/<dev>/stat
+	 +unBlock layer statistics in /sys/unblock/<dev>/stat
 switching-sched.txt
-	- Switching I/O schedulers at runtime
+	Switching I/O schedulers at runtime
+New lg.copyright lisensces
